@@ -1,1 +1,2 @@
-This is version 2 of my Software changed in GIT HUB
+This is version 2 of my Software
+git diff
